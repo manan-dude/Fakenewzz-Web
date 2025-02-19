@@ -154,4 +154,3 @@ This project is **open-source** under the **MIT License**.
 
 ---
 
-Would you like to add **screenshots** or a **demo link**? 📸
