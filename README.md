@@ -1,7 +1,3 @@
-Here's a **comprehensive README.md** file that covers both the **frontend** and **backend** of your Fake News Checker project.  
-
----
-
 # **📰 Fake News Checker**  
 AI-powered tool to detect fake news from text and images using **Google Gemini AI** and **OCR (Tesseract.js).**  
 
@@ -43,7 +39,9 @@ cd fake-news-checker
 
 # 📌 **Backend Setup**  
 
-!github[]
+## **Backend Github Repo**
+**https://github.com/manan-dude/Fakenewzz.git**
+
 
 ## **2️⃣ Navigate to Backend**  
 ```bash
